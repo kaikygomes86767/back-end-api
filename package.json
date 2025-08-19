@@ -1,0 +1,14 @@
+{
+  "name": "relanpago",
+  "version": "1.0.0",
+  "description": "seja bem vindo ",
+  "main": "server.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "kaiky gomes leal",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
